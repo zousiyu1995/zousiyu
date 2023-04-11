@@ -12,7 +12,11 @@ I am interested in transport phenomena (momentum, mass, and heat) in chemical en
 
 I focus on simple but unclear systems.
 
-Also find me in [Google Scholar](https://scholar.google.com/citations?user=w6AliuwAAAAJ&hl=zh-CN),  [Research Gate](https://www.researchgate.net/profile/Siyu-Zou-3),  [ORCiD](https://orcid.org/my-orcid?orcid=0000-0002-9152-9844)
+Also find me in [Google Scholar](https://scholar.google.com/citations?user=w6AliuwAAAAJ&hl=zh-CN),  [Research Gate](https://www.researchgate.net/profile/Siyu-Zou-3),  [ORCiD](https://orcid.org/my-orcid?orcid=0000-0002-9152-9844), [Github](https://github.com/zousiyu1995)
+
+## Work experiences
+
+- 2021.07 - now: Postdoctoral Research Fellow, College of Chemistry, Chemical Engineering and Materials Science, Soochow University, China.
 
 ## Publication
 
