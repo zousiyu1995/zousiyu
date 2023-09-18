@@ -2,7 +2,7 @@
 
 College of Chemistry, Chemical Engineering and Materials Science, Soochow University, Suzhou, Jiangsu Province, China
 
-Email: "{} at suda dot edu dot cn".format("syzou") or "{} at outlook dot com".format("zousiyu1995")
+Email: `"{} at suda dot edu dot cn".format("syzou")` or `"{} at outlook dot com".format("zousiyu1995")`
 
 ## PERSONAL INFORMATION
 
