@@ -2,21 +2,21 @@
 
 I am currently a Postdoctoral Research Fellow in Soochow University.
 
-College of Chemistry, Chemical Engineering and Materials Science, Soochow University, Suzhou, Jiangsu Province, China
+Address: College of Chemistry, Chemical Engineering and Materials Science, Soochow University, Suzhou, Jiangsu Province, China
 
 Email: `syzou at suda dot edu dot cn` or `zousiyu1995 at outlook dot com`
 
 ## PERSONAL INFORMATION
 
-I received my **Ph.D.** degree in Applied Chemistry from [Soochow University](https://chemistry.suda.edu.cn/) (Suzhou, China) in June 2021. My advisors were Prof. [Xiao Dong Chen](https://scholar.google.com/citations?user=fg3sXKwAAAAJ&hl=zh-CN) and Prof. [Jie Xiao](https://scholar.google.com/citations?user=lKpqfmkAAAAJ&hl=zh-CN). During My Ph.D. I focused on modeling and simulation of reactors with porous structures.
+I received my **Ph.D.** degree in **Applied Chemistry** from [Soochow University](https://chemistry.suda.edu.cn/) (Suzhou, China) in June 2021. But, I majored in **Chemical Engineering**. My advisors were Prof. [Xiao Dong Chen](https://scholar.google.com/citations?user=fg3sXKwAAAAJ&hl=zh-CN) and Prof. [Jie Xiao](https://scholar.google.com/citations?user=lKpqfmkAAAAJ&hl=zh-CN). During My Ph.D. I focused on modeling and simulation of reactors with porous structures.
 
-I am interested in transport phenomena (momentum, mass, and heat) in **chemical engineering**, e.g. porous media, bio-inspired systems, and enzymatic reaction systems. Typically, I model transport phenomena with computational fluid dynamics (**CFD**) and validate the models with clearly defined experiments.
+I am mainly interested in transport phenomena (momentum, mass, and heat) in nature and **chemical engineering**, e.g. porous media, bio-inspired systems, and enzymatic reaction systems. Typically, I model transport phenomena with computational fluid dynamics (**CFD**) and validate the models with clearly defined experiments. I usually use **ANSYS Fluent** as the preferred solver for CFD and **COMSOL Multiphysics** as the preferred solver for multiphysics coupling problems (mass transfer, heat transfer, etc.) and custom physics equations. Generally, I use scripting language (e.g., **MATLAB**) to process simulation results.
 
-I usually use **ANSYS Fluent** as the preferred solver for CFD and **COMSOL Multiphysics** as the preferred solver for multiphysics coupling problems (mass transfer, heat transfer, etc.) and custom physics equations. Generally, I use scripting language (e.g., **MATLAB, Python**) to process simulation results. I can also understand some compiled languages (e.g., **C, Rust**) and have solved some basic **algorithm** problems using them (see my [leetcode record](https://github.com/zousiyu1995/leetcode)).
+I am also an enthusiastic self-learner and interested in various fields of computer science. I taught myself some programming languages (e.g., **Python, Rust, C**) and have solved some basic **Algorithm and Data Structures** problems using them (see my [leetcode record](https://github.com/zousiyu1995/leetcode)). I also taught myself the **LaTeX** tool chain to write notes related to mathematics and programming (see my [Github](https://github.com/zousiyu1995)). I know basic knowledge of **Linux** system and **Shell** programming, and was once responsible for the daily maintenance of a Linux cluster in Soochow University.
 
 Also find me in [Google Scholar](https://scholar.google.com/citations?user=w6AliuwAAAAJ&hl=zh-CN),  [Research Gate](https://www.researchgate.net/profile/Siyu-Zou-3),  [ORCiD](https://orcid.org/my-orcid?orcid=0000-0002-9152-9844), and [Github](https://github.com/zousiyu1995).
 
-## AWARD
+## AWARDS
 
 - **2020.07, Best Student Presentation Award**: In the 2nd National Conference on Process Modeling and Simulation, My talk on eyelashes ("Inhibition of Ocular Water Evaporation by Eyelashes: Computer Simulation and Mechanism Analysis") was awarded the Best Student Presentation Award (1 of 12 awardees out of 62 student talks). This work has been published in [Journal of the Royal Society Interface](https://royalsocietypublishing.org/doi/10.1098/rsif.2019.0425). This conference was organized by the [Simulation & Virtual Process Engineering Committee](http://www.ciesc.cn/branch/226), one of the professional committees of the [Chemical Industry and Engineering Society of China (CIESC)](http://www.ciesc.cn/).
 
