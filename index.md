@@ -28,6 +28,8 @@ Also find me in [Google Scholar](https://scholar.google.com/citations?user=w6Ali
 
 [Cite them in bibtex format](./bib_my_paper.bib).
 
+`*` denotes the corresponding author.
+
 ### MAIN PUBLICATIONS
 
 1. **Siyu Zou**, Dandan Wang, Jie Xiao\*, Xinjian Feng\*. Mathematical Model for a Three-Phase Enzymatic Reaction System. Industrial & Engineering Chemistry Research, 2023, 62 (10), 4337–4343. <https://doi.org/10.1021/acs.iecr.2c04492>.
