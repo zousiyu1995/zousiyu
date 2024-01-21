@@ -8,7 +8,7 @@ Email: `syzou at suda dot edu dot cn` or `zousiyu1995 at outlook dot com`
 
 ## PERSONAL INFORMATION
 
-I received my **Ph.D.** degree in **Applied Chemistry** from [Soochow University](https://chemistry.suda.edu.cn/) (Suzhou, China) in June 2021. But, I majored in **Chemical Engineering**. My advisors were Prof. [Xiao Dong Chen](https://scholar.google.com/citations?user=fg3sXKwAAAAJ&hl=zh-CN) and Prof. [Jie Xiao](https://scholar.google.com/citations?user=lKpqfmkAAAAJ&hl=zh-CN). During My Ph.D. I focused on modeling and simulation of reactors with porous structures.
+I received my **Ph.D.** degree in **Applied Chemistry** from [Soochow University](https://chemistry.suda.edu.cn/) (Suzhou, China) in June 2021. But, I majored in **Chemical Engineering**. My advisors were Prof. [Xiao Dong Chen](https://scholar.google.com/citations?user=fg3sXKwAAAAJ&hl=zh-CN) and Prof. [Jie Xiao](https://web.suda.edu.cn/jie.xiao/). During My Ph.D. I focused on modeling and simulation of reactors with porous structures.
 
 My research interests are in the areas of **mathematical modeling** and **numerical simulation** of transport phenomena (momentum, mass, and heat) in nature and industry, e.g. porous media, bio-inspired systems, and enzymatic reaction systems. Typically, I model transport phenomena with computational fluid dynamics (**CFD**) and validate the models with clearly defined experiments. I usually use **ANSYS Fluent** as the preferred solver for CFD and **COMSOL Multiphysics** as the preferred solver for multiphysics coupling problems (mass transfer, heat transfer, etc.) and custom partial or ordinary differential equations (PDE or ODE). Generally, I use **MATLAB** to process simulation results.
 
@@ -21,12 +21,12 @@ Also find me in [Google Scholar](https://scholar.google.com/citations?user=w6Ali
 - **2020.07, Best Student Presentation Award**: In the 2nd National Conference on Process Modeling and Simulation, My talk on eyelashes ("Inhibition of Ocular Water Evaporation by Eyelashes: Computer Simulation and Mechanism Analysis") was awarded the Best Student Presentation Award (1 of 12 awardees out of 62 student talks). This work has been published in [Journal of the Royal Society Interface](https://royalsocietypublishing.org/doi/10.1098/rsif.2019.0425). This conference was organized by the [Simulation & Virtual Process Engineering Committee](http://www.ciesc.cn/branch/226), one of the professional committees of the [Chemical Industry and Engineering Society of China (CIESC)](http://www.ciesc.cn/).
 
 <div style="text-align:center">
-  <img src="./assets/2020.07.BestStudentPresentationAward.jpg" alt="Best Student Presentation Award" width="30%">
+  <img src="./assets/2020.07.BestStudentPresentationAward.jpg" alt="Best Student Presentation Award" width="50%">
 </div>
 
 ## WORK EXPERIENCES
 
-- **2021.07 - now, Postdoctoral Research Fellow**, College of Chemistry, Chemical Engineering and Materials Science, Soochow University, China. My Postdoc's project is mathematical modeling for a three-phase enzyme electrode. The project aims to investigate the relationship between electrode performance and the structure of the three-phase interface and reveal the underlying mechanisms.
+- **2021.07 - now, Postdoctoral Research Fellow**, College of Chemistry, Chemical Engineering and Materials Science, Soochow University, China. My Postdoc's project is mathematical modeling for a three-phase enzyme electrode. The project aims to investigate the relationship between electrode performance and the structure of the three-phase interface and reveal the underlying mechanisms. (co-advisors: Prof. [Xinjian Feng](https://www.researchgate.net/scientific-contributions/Xinjian-Feng-38952909) and Prof. [Jie Xiao](https://web.suda.edu.cn/jie.xiao/))
 
 ## PUBLICATIONS
 
