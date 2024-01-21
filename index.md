@@ -20,6 +20,10 @@ Also find me in [Google Scholar](https://scholar.google.com/citations?user=w6Ali
 
 - **2020.07, Best Student Presentation Award**: In the 2nd National Conference on Process Modeling and Simulation, My talk on eyelashes ("Inhibition of Ocular Water Evaporation by Eyelashes: Computer Simulation and Mechanism Analysis") was awarded the Best Student Presentation Award (1 of 12 awardees out of 62 student talks). This work has been published in [Journal of the Royal Society Interface](https://royalsocietypublishing.org/doi/10.1098/rsif.2019.0425). This conference was organized by the [Simulation & Virtual Process Engineering Committee](http://www.ciesc.cn/branch/226), one of the professional committees of the [Chemical Industry and Engineering Society of China (CIESC)](http://www.ciesc.cn/).
 
+<div style="text-align:center">
+  <img src="./assets/2020.07.BestStudentPresentationAward.jpg" alt="Best Student Presentation Award" width="30%">
+</div>
+
 ## WORK EXPERIENCES
 
 - **2021.07 - now, Postdoctoral Research Fellow**, College of Chemistry, Chemical Engineering and Materials Science, Soochow University, China. My Postdoc's project is mathematical modeling for a three-phase enzyme electrode. The project aims to investigate the relationship between electrode performance and the structure of the three-phase interface and reveal the underlying mechanisms.
