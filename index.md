@@ -16,6 +16,8 @@ I am also an enthusiastic self-learner interested in various fields of computer 
 
 Also find me on [Google Scholar](https://scholar.google.com/citations?user=w6AliuwAAAAJ&hl=zh-CN),  [Research Gate](https://www.researchgate.net/profile/Siyu-Zou-3),  [ORCiD](https://orcid.org/my-orcid?orcid=0000-0002-9152-9844), and [Github](https://github.com/zousiyu1995).
 
+I'm an enthusiast of Jazz. Sometimes I do photography.
+
 ## AWARDS
 
 - **2020.07, Best Student Presentation Award**: In the 2nd National Conference on Process Modeling and Simulation, My talk on eyelashes ("Inhibition of Ocular Water Evaporation by Eyelashes: Computer Simulation and Mechanism Analysis") was awarded the Best Student Presentation Award (1 of 12 awardees out of 62 student talks). This work has been published in [Journal of the Royal Society Interface](https://royalsocietypublishing.org/doi/10.1098/rsif.2019.0425). This conference was organized by the [Simulation & Virtual Process Engineering Committee](http://www.ciesc.cn/branch/226), one of the professional committees of the [Chemical Industry and Engineering Society of China (CIESC)](http://www.ciesc.cn/).
