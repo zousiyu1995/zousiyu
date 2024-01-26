@@ -4,7 +4,7 @@ Hello, my name is Siyu Zou, in Chinese "邹思宇". I am currently a Postdoctora
 
 Address: College of Chemistry, Chemical Engineering and Materials Science, Soochow University, Suzhou, Jiangsu Province, China
 
-Email: `syzou at suda dot edu dot cn` or `zousiyu1995 at outlook dot com`
+Email: `syzou [at] suda [dot] edu [dot] cn` or `zousiyu1995 [at] outlook [dot] com`
 
 ## PERSONAL INFORMATION
 
@@ -16,7 +16,7 @@ I am also an enthusiastic self-learner interested in various fields of computer 
 
 Also find me on [Google Scholar](https://scholar.google.com/citations?user=w6AliuwAAAAJ&hl=zh-CN),  [Research Gate](https://www.researchgate.net/profile/Siyu-Zou-3),  [ORCiD](https://orcid.org/my-orcid?orcid=0000-0002-9152-9844), and [Github](https://github.com/zousiyu1995).
 
-I am an enthusiast of Jazz. Sometimes I do photography.
+I am an enthusiast of Jazz, Blues, and Chinese folk music. I'm not a fan of a specific artist. I listen to music impromptu, just like Jazz improvisation. Sometimes I do photography.
 
 ## AWARDS
 
