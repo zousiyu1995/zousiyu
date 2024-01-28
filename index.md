@@ -16,7 +16,7 @@ I am also an enthusiastic self-learner interested in various fields of computer 
 
 Also find me on [Google Scholar](https://scholar.google.com/citations?user=w6AliuwAAAAJ&hl=zh-CN),  [Research Gate](https://www.researchgate.net/profile/Siyu-Zou-3),  [ORCiD](https://orcid.org/my-orcid?orcid=0000-0002-9152-9844), and [Github](https://github.com/zousiyu1995).
 
-I am an enthusiast of Jazz, Blues, and Chinese folk music. I'm not a fan of a specific artist. I listen to music impromptu, just like Jazz improvisation. Sometimes I do photography.
+In my spare time, I dabble in many arts, including but not limited to film, literature, painting, photography, game, and music. Life is so short, enjoy it before you grow old. I am an enthusiast of Jazz, Blues, and Chinese folk music. I like German style board games, such as agricola, carcassonne, and castles of burgundy. I'm not a fan of a specific artist. To describe my enjoyment of art in one word, I would say "Jazz improvisation".
 
 ## AWARDS
 
