@@ -32,7 +32,7 @@ In my spare time, I dabble in many arts, including but not limited to film, lite
 
 ## PUBLICATIONS
 
-[Cite them in bibtex format](./bib_my_paper.bib).
+[Cite them in bibtex format](./bib-mypaper.bib).
 
 `*` denotes the corresponding author.
 
