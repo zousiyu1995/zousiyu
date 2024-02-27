@@ -29,7 +29,7 @@ In my spare time, I pursue diverse interests for a healthy work-life balance. I 
 
 ## WORK EXPERIENCES
 
-- **2021.07 - now, Postdoctoral Research Fellow**, [College of Chemistry, Chemical Engineering and Materials Science](https://chemistry.suda.edu.cn/), [Soochow University](https://www.suda.edu.cn/), China. My Postdoctoral research focuses on developing a mathematical model for a three-phase enzyme electrode. This project aims to unravel the relationship between electrode performance and the structure of the three-phase interface and reveal the underlying mechanisms. (co-advisors: Prof. [Xinjian Feng](https://www.researchgate.net/scientific-contributions/Xinjian-Feng-38952909) and Prof. [Jie Xiao](https://web.suda.edu.cn/jie.xiao/))
+- **2021.07 - now, Postdoctoral Research Fellow**, [College of Chemistry, Chemical Engineering and Materials Science](https://chemistry.suda.edu.cn/), [Soochow University](https://www.suda.edu.cn/), China. My postdoctoral research focuses on developing a mathematical model for a three-phase enzyme electrode. This project aims to unravel the relationship between electrode performance and the structure of the three-phase interface and reveal the underlying mechanisms. (co-advisors: Prof. [Xinjian Feng](https://www.researchgate.net/scientific-contributions/Xinjian-Feng-38952909) and Prof. [Jie Xiao](https://web.suda.edu.cn/jie.xiao/))
 
 ## PUBLICATIONS
 
