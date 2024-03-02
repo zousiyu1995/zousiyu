@@ -39,11 +39,12 @@ In my spare time, I pursue diverse interests for a healthy work-life balance. I 
 
 ### MAIN PUBLICATIONS
 
-1. **Siyu Zou**, Jie Xiao\*, Xinjian Feng\*. Modeling Enzymatic and Electrochemical Cascade Reactions at the Three-Phase Interface Enzyme Electrode. AIChE Journal, 2024. <https://doi.org/10.1002/aic.18420> (Accepted)
-1. **Siyu Zou**, Dandan Wang, Jie Xiao\*, Xinjian Feng\*. Mathematical Model for a Three-Phase Enzymatic Reaction System. Industrial & Engineering Chemistry Research, 2023, 62 (10), 4337–4343. <https://doi.org/10.1021/acs.iecr.2c04492>.
-1. **Siyu Zou**, Jie Xiao\*, Viola Wu, Xiao Dong Chen\*. Analyzing Industrial CVD Reactors Using a Porous Media Approach. Chemical Engineering Journal, 2021, 415, 129038. <https://doi.org/10.1016/j.cej.2021.129038>.
-1. **Siyu Zou**, Jinping Zha, Jie Xiao\*, Xiao Dong Chen. How Eyelashes Can Protect the Eye Through Inhibiting Ocular Water Evaporation: A Chemical Engineering Perspective. Journal of the Royal Society Interface, 2019, 16 (159), 20190425. <https://doi.org/10.1098/rsif.2019.0425>.
-1. **邹思宇 (Siyu Zou)**, 凌二锁, 乐淑荣, 孙盛鹏, 吴张雄, 陈晓东, 吴铎, 肖杰\*. 臭氧催化氧化反应器模拟与分析. 化工进展, 2019, 38 (9), 3969–3978. <https://doi.org/10.16085/j.issn.1000-6613.2018-2476>. (In Chinese)
+1. **Siyu Zou**, Jie Xiao\*, Xiao Dong Chen\*.A Comprehensive Comparison of Different RANS Turbulence Models in Modeling Turbulent Plane Jets. (In preparation)
+2. **Siyu Zou**, Jie Xiao\*, Xinjian Feng\*. Modeling Enzymatic and Electrochemical Cascade Reactions at the Three-Phase Interface Enzyme Electrode. AIChE Journal, 2024, e18420. <https://doi.org/10.1002/aic.18420>.
+3. **Siyu Zou**, Dandan Wang, Jie Xiao\*, Xinjian Feng\*. Mathematical Model for a Three-Phase Enzymatic Reaction System. Industrial & Engineering Chemistry Research, 2023, 62 (10), 4337–4343. <https://doi.org/10.1021/acs.iecr.2c04492>.
+4. **Siyu Zou**, Jie Xiao\*, Viola Wu, Xiao Dong Chen\*. Analyzing Industrial CVD Reactors Using a Porous Media Approach. Chemical Engineering Journal, 2021, 415, 129038. <https://doi.org/10.1016/j.cej.2021.129038>.
+5. **Siyu Zou**, Jinping Zha, Jie Xiao\*, Xiao Dong Chen. How Eyelashes Can Protect the Eye Through Inhibiting Ocular Water Evaporation: A Chemical Engineering Perspective. Journal of the Royal Society Interface, 2019, 16 (159), 20190425. <https://doi.org/10.1098/rsif.2019.0425>.
+6. **邹思宇 (Siyu Zou)**, 凌二锁, 乐淑荣, 孙盛鹏, 吴张雄, 陈晓东, 吴铎, 肖杰\*. 臭氧催化氧化反应器模拟与分析. 化工进展, 2019, 38 (9), 3969–3978. <https://doi.org/10.16085/j.issn.1000-6613.2018-2476>. (In Chinese)
 
 ### OTHER PUBLICATIONS
 
