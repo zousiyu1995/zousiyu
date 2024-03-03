@@ -39,7 +39,7 @@ In my spare time, I pursue diverse interests for a healthy work-life balance. I 
 
 ### MAIN PUBLICATIONS
 
-1. **Siyu Zou**, Jie Xiao\*, Xiao Dong Chen\*.A Comprehensive Comparison of Different RANS Turbulence Models in Modeling Turbulent Plane Jets. (In preparation)
+1. **Siyu Zou**, Jie Xiao\*, Xiao Dong Chen\*. A Comprehensive Comparison of Different RANS Turbulence Models in Modeling Turbulent Plane Jets. (In preparation)
 2. **Siyu Zou**, Jie Xiao\*, Xinjian Feng\*. Modeling Enzymatic and Electrochemical Cascade Reactions at the Three-Phase Interface Enzyme Electrode. AIChE Journal, 2024, e18420. <https://doi.org/10.1002/aic.18420>.
 3. **Siyu Zou**, Dandan Wang, Jie Xiao\*, Xinjian Feng\*. Mathematical Model for a Three-Phase Enzymatic Reaction System. Industrial & Engineering Chemistry Research, 2023, 62 (10), 4337–4343. <https://doi.org/10.1021/acs.iecr.2c04492>.
 4. **Siyu Zou**, Jie Xiao\*, Viola Wu, Xiao Dong Chen\*. Analyzing Industrial CVD Reactors Using a Porous Media Approach. Chemical Engineering Journal, 2021, 415, 129038. <https://doi.org/10.1016/j.cej.2021.129038>.
