@@ -18,6 +18,10 @@ Also find me on [Google Scholar](https://scholar.google.com/citations?user=w6Ali
 
 In my spare time, I pursue diverse interests for a healthy work-life balance. I enjoy various music genres like Jazz, Blues, and Chinese folk music. I'm also a fan of strategy board games, particularly the German-style classics like Agricola, Carcassonne, and Castles of Burgundy. My art appreciation aligns with the spirit of jazz improvisation – I value creativity and spontaneity.
 
+## EXPERTISE
+
+Chemical Engineering · Transport Phenomena · Mathematical Modeling · Numerical Simulation · Computational Fluid Dynamics (CFD) · Multiphysics Simulation · Programming
+
 ## AWARDS
 
 - **2022.07, Jiangsu Funding Program for Excellent Postdoctoral Talent**: This funding is provided by the Jiangsu provincial government.
