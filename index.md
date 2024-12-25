@@ -8,7 +8,7 @@ Email: `siyu [dot] zou [at] xtu [dot] edu [dot] cn` or `zousiyu1995 [at] outlook
 
 ## Personal Information
 
-I received my Ph.D. degree in **Chemical Engineering** from [Soochow University](https://chemistry.suda.edu.cn/) (Suzhou, China), under the guidance of Prof. [Xiao Dong Chen](https://scholar.google.com/citations?user=fg3sXKwAAAAJ&hl=zh-CN) and Prof. [Jie Xiao](https://web.suda.edu.cn/jie.xiao/). During My doctoral research, I focused on modeling and simulation of reactors with porous structures.
+I received my Ph.D. degree in Chemical Engineering from [Soochow University](https://chemistry.suda.edu.cn/) (Suzhou, China), under the guidance of Prof. [Xiao Dong Chen](https://scholar.google.com/citations?user=fg3sXKwAAAAJ&hl=zh-CN) and Prof. [Jie Xiao](https://web.suda.edu.cn/jie.xiao/). During My doctoral research, I focused on modeling and simulation of reactors with porous structures.
 
 My main research interests lie in mathematical modeling and numerical simulation of transport phenomena (fluid dynamics, mass and heat transfer, and reaction kinetics) in nature and industry. I leverage chemical engineering principles to develop multi-physics models to understand, design, and optimize these processes. Some examples of application,
 
@@ -30,7 +30,7 @@ In my spare time, I pursue diverse interests for a healthy work-life balance. I 
 ## Skills
 
 - **Expertise**: Chemical Engineering, Transport Phenomena, Fluid Mechanics, Mass Transfer, Heat Transfer, Reaction Engineering, Reacting Flows, Porous Media, Incompressible Flows, Process Modeling and Simulation, Mathematical Modeling, Numerical Simulation
-- **Modeling \& Simulation**: Physics-Based Modeling, Continuum Modeling, Multi-Physics Modeling, Multi-Scale Modeling, Machine Learning, Deep Learning, Differential Equation, Finite Element Method (FEM), Computational Fluid Dynamics (CFD), Turbulence Modeling, Moving Mesh
+- **Modeling & Simulation**: Physics-Based Modeling, Continuum Modeling, Multi-Physics Modeling, Multi-Scale Modeling, Machine Learning, Deep Learning, Differential Equation, Finite Element Method (FEM), Computational Fluid Dynamics (CFD), Turbulence Modeling, Moving Mesh
 - **Software**: ANSYS Fluent, COMSOL Multiphysics, MATLAB, LATEX, Pandas, Numpy, Matplotlib, Linux, Blender
 - **Programming**: MATLAB, Python, C, Algorithms, Data Structures
 - **Languages**: Chinese (native speaker), English (intermediate)
