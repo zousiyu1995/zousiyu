@@ -1,2 +1,4 @@
 *.pdf
 *.sav
+
+!cv/cv.pdf

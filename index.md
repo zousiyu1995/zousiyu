@@ -33,20 +33,20 @@ In my spare time, I pursue diverse interests for a healthy work-life balance. I 
 
 - **Expertise**: Chemical Engineering, Transport Phenomena, Fluid Mechanics, Mass Transfer, Heat Transfer, Reaction Engineering, Reacting Flows, Porous Media, Incompressible Flows, Process Modeling and Simulation, Mathematical Modeling, Numerical Simulation
 - **Modeling & Simulation**: Physics-Based Modeling, Continuum Modeling, Multi-Physics Modeling, Multi-Scale Modeling, Machine Learning, Deep Learning, Differential Equation, Finite Element Method (FEM), Computational Fluid Dynamics (CFD), Turbulence Modeling, Moving Mesh
-- **Software**: ANSYS Fluent, COMSOL Multiphysics, MATLAB, LATEX, Pandas, Numpy, Matplotlib, Linux, Blender
+- **Software**: ANSYS Fluent, COMSOL Multiphysics, MATLAB, LaTeX, Pandas, Numpy, Matplotlib, Linux, Blender
 - **Programming**: MATLAB, Python, C, Algorithms, Data Structures
 - **Languages**: Chinese (native speaker), English (intermediate)
 
 ## Honours and Awards
 
-- **01/12/2024, Best Oral Presentation Award**:  In the 4^th^ National Conference on Process Modeling and Simulation (hosted by South China University of Technology), my talk "Mathematical Modeling of Three-Phase Interface Enzyme Electrode" was honored with the Best Oral Presentation Award. This work has been published in [AIChE Journal](https://doi.org/10.1002/aic.18420) and [Industrial & Engineering Chemistry Research](https://doi.org/10.1021/acs.iecr.2c04492).
+- **01/12/2024, Best Oral Presentation Award**:  In the 4th National Conference on Process Modeling and Simulation (hosted by South China University of Technology), my talk "Mathematical Modeling of Three-Phase Interface Enzyme Electrode" was honored with the Best Oral Presentation Award. This work has been published in [AIChE Journal](https://doi.org/10.1002/aic.18420) and [Industrial & Engineering Chemistry Research](https://doi.org/10.1021/acs.iecr.2c04492).
 
 <div style="text-align:center">
   <img src="./assets/2024.12.01.Best.Oral.Presentation.Award.jpg" alt="" width="50%">
 </div>
 
 - **07/2022, Jiangsu Funding Program for Excellent Postdoctoral Talent**: This funding is provided by the Jiangsu provincial government.
-- **07/2020, Best Student Oral Presentation Award**: In the 2^nd^ National Conference on Process Modeling and Simulation, my talk on eyelashes ("Inhibition of Ocular Water Evaporation by Eyelashes: Computer Simulation and Mechanism Analysis") was awarded the Best Student Presentation Award (1 of 12 awardees out of 62 student talks). This work has been published in [Journal of the Royal Society Interface](https://royalsocietypublishing.org/doi/10.1098/rsif.2019.0425). This conference was organized by the [Simulation & Virtual Process Engineering Committee](http://www.ciesc.cn/branch/226), one of the professional committees of the [Chemical Industry and Engineering Society of China (CIESC)](http://www.ciesc.cn/).
+- **07/2020, Best Student Oral Presentation Award**: In the 2nd National Conference on Process Modeling and Simulation, my talk on eyelashes ("Inhibition of Ocular Water Evaporation by Eyelashes: Computer Simulation and Mechanism Analysis") was awarded the Best Student Presentation Award (1 of 12 awardees out of 62 student talks). This work has been published in [Journal of the Royal Society Interface](https://royalsocietypublishing.org/doi/10.1098/rsif.2019.0425). This conference was organized by the [Simulation & Virtual Process Engineering Committee](http://www.ciesc.cn/branch/226), one of the professional committees of the [Chemical Industry and Engineering Society of China (CIESC)](http://www.ciesc.cn/).
 
 <div style="text-align:center">
   <img src="./assets/2020.07.Best.Student.Oral.Presentation.Award.jpg" alt="" width="50%">
@@ -76,6 +76,6 @@ Also find me on [Google Scholar](https://scholar.google.com/citations?user=w6Ali
 
 ## Conference Presentations
 
-- **29/11 - 01/12/2024**, Contributed Talk, Mathematical Modeling of Three-Phase Interface Enzyme Electrode, The 4^th^ National Conference on Process Modeling and Simulation, Guangzhou, China.
-- **16/07 - 17/07/2020**, Contributed Talk, The Inhibitory Effect of Eyelashes on Water Evaporation on Ocular Surface: Computer Simulation and Mechanism Analysis, The 2^nd^ National Conference on Process Modeling and Simulation, Online, China.
-- **25/08 - 27/08/2018**, Poster, Multiscale Numerical Simulation of the Catalytic Ozonation Reactor for Wastewater Treatment, The 1^st^ National Conference on Process Modeling and Simulation, Shanghai, China.
+- **29/11 - 01/12/2024**, Contributed Talk, Mathematical Modeling of Three-Phase Interface Enzyme Electrode, The 4th National Conference on Process Modeling and Simulation, Guangzhou, China.
+- **16/07 - 17/07/2020**, Contributed Talk, The Inhibitory Effect of Eyelashes on Water Evaporation on Ocular Surface: Computer Simulation and Mechanism Analysis, The 2nd National Conference on Process Modeling and Simulation, Online, China.
+- **25/08 - 27/08/2018**, Poster, Multiscale Numerical Simulation of the Catalytic Ozonation Reactor for Wastewater Treatment, The 1st National Conference on Process Modeling and Simulation, Shanghai, China.
