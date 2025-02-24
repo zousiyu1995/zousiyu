@@ -1,10 +1,12 @@
 # Siyu Zou (邹思宇)
 
-Hello, my name is Siyu Zou, in Chinese "邹思宇". I am currently a Assistant Professor in the School of Chemical Engineering at Xiangtan University, China.
+Siyu Zou (邹思宇) is currently a Lecturer in the School of Chemical Engineering at Xiangtan University.
 
 Address: School of Chemical Engineering, Xiangtan University, Xiangtan, Hunan, China
 
 Email: `siyu [dot] zou [at] xtu [dot] edu [dot] cn` or `zousiyu1995 [at] outlook [dot] com`
+
+Click download my [cv](./cv/cv.pdf).
 
 ## Personal Information
 
@@ -24,8 +26,8 @@ In my spare time, I pursue diverse interests for a healthy work-life balance. I 
 
 ## Employment
 
-- **Since 09/2024, Assistant Professor**, [School of Chemical Engineering](https://hgxy.xtu.edu.cn/), [Xiangtan University](https://www.xtu.edu.cn/), Xiangtan,Hunan,China.
-- **07/2021 - 06/2024, Postdoctoral Research Fellow**, [College of Chemistry, Chemical Engineering and Materials Science](https://chemistry.suda.edu.cn/), [Soochow University](https://www.suda.edu.cn/), China. Co-advisors: Prof. [Xinjian Feng](https://www.researchgate.net/scientific-contributions/Xinjian-Feng-38952909) and Prof. [Jie Xiao](https://web.suda.edu.cn/jie.xiao/). My postdoctoral research focuses on developing a mathematical model for a three-phase enzyme electrode. This project aims to unravel the relationship between electrode performance and the structure of the three-phase interface and reveal the underlying mechanisms.
+- **Since 09/2024, Lecturer**, [School of Chemical Engineering](https://hgxy.xtu.edu.cn/), [Xiangtan University](https://www.xtu.edu.cn/), Xiangtan, Hunan Province, China.
+- **07/2021 - 06/2024, Postdoctoral Research Fellow**, [College of Chemistry, Chemical Engineering and Materials Science](https://chemistry.suda.edu.cn/), [Soochow University](https://www.suda.edu.cn/), Jiangsu Province, China. Co-Advisors: Prof. [Xinjian Feng](https://www.researchgate.net/scientific-contributions/Xinjian-Feng-38952909) and Prof. [Jie Xiao](https://web.suda.edu.cn/jie.xiao/). My postdoctoral research focuses on developing a mathematical model for a three-phase enzyme electrode. This project aims to unravel the relationship between electrode performance and the structure of the three-phase interface and reveal the underlying mechanisms.
 
 ## Skills
 
@@ -37,20 +39,22 @@ In my spare time, I pursue diverse interests for a healthy work-life balance. I 
 
 ## Honours and Awards
 
-- **01/12/2024, Best Oral Presentation Award**:  In the 4th National Conference on Process Modeling and Simulation (hosted by South China University of Technology), my talk "Mathematical Modeling of Three-Phase Interface Enzyme Electrode" was honored with the Best Oral Presentation Award. This work has been published in [AIChE Journal](https://doi.org/10.1002/aic.18420) and [Industrial \& Engineering Chemistry Research](https://doi.org/10.1021/acs.iecr.2c04492).
+- **01/12/2024, Best Oral Presentation Award**:  In the 4^th^ National Conference on Process Modeling and Simulation (hosted by South China University of Technology), my talk "Mathematical Modeling of Three-Phase Interface Enzyme Electrode" was honored with the Best Oral Presentation Award. This work has been published in [AIChE Journal](https://doi.org/10.1002/aic.18420) and [Industrial & Engineering Chemistry Research](https://doi.org/10.1021/acs.iecr.2c04492).
 
 <div style="text-align:center">
   <img src="./assets/2024.12.01.Best.Oral.Presentation.Award.jpg" alt="" width="50%">
 </div>
 
 - **07/2022, Jiangsu Funding Program for Excellent Postdoctoral Talent**: This funding is provided by the Jiangsu provincial government.
-- **07/2020, Best Student Oral Presentation Award**: In the 2nd National Conference on Process Modeling and Simulation, my talk on eyelashes ("Inhibition of Ocular Water Evaporation by Eyelashes: Computer Simulation and Mechanism Analysis") was awarded the Best Student Presentation Award (1 of 12 awardees out of 62 student talks). This work has been published in [Journal of the Royal Society Interface](https://royalsocietypublishing.org/doi/10.1098/rsif.2019.0425). This conference was organized by the [Simulation & Virtual Process Engineering Committee](http://www.ciesc.cn/branch/226), one of the professional committees of the [Chemical Industry and Engineering Society of China (CIESC)](http://www.ciesc.cn/).
+- **07/2020, Best Student Oral Presentation Award**: In the 2^nd^ National Conference on Process Modeling and Simulation, my talk on eyelashes ("Inhibition of Ocular Water Evaporation by Eyelashes: Computer Simulation and Mechanism Analysis") was awarded the Best Student Presentation Award (1 of 12 awardees out of 62 student talks). This work has been published in [Journal of the Royal Society Interface](https://royalsocietypublishing.org/doi/10.1098/rsif.2019.0425). This conference was organized by the [Simulation & Virtual Process Engineering Committee](http://www.ciesc.cn/branch/226), one of the professional committees of the [Chemical Industry and Engineering Society of China (CIESC)](http://www.ciesc.cn/).
 
 <div style="text-align:center">
   <img src="./assets/2020.07.Best.Student.Oral.Presentation.Award.jpg" alt="" width="50%">
 </div>
 
 ## Publications
+
+Also find me on [Google Scholar](https://scholar.google.com/citations?user=w6AliuwAAAAJ&hl=zh-CN) and [Research Gate](https://www.researchgate.net/profile/Siyu-Zou-3).
 
 ### Main Publications
 
@@ -69,3 +73,9 @@ In my spare time, I pursue diverse interests for a healthy work-life balance. I 
 3. Jinping Zha, **Siyu Zou**, Jianyu Hao, Xinjuan Liu, Guillaume Delaplace, Romain Jeantet, Didier Dupont, Peng Wu, Xiao Dong Chen, Jie Xiao\*. The Role of Circular Folds in Mixing Intensification in the Small Intestine: A Numerical Study. Chemical Engineering Science, 2021, 229, 116079. <https://doi.org/10.1016/j.ces.2020.116079>.
 4. Hongtao Xia, **Siyu Zou**, and Jie Xiao\*. "Numerical Simulation of Shear-Thinning Droplet Impacting on Randomly Rough Surfaces". CIESC Journal, 2019, 70, 634–645. <https://doi.org/10.11949/j.issn.0438-1157.20181213> (In Chinese)
 5. Jie Xiao\*, Fei Pan, Hongtao Xia, **Siyu Zou**, Hui Zhang, Oluwafemi Ayodele George, Fei Zhou, Yinlun Huang. Computational Study of Single Droplet Deposition on Randomly Rough Surfaces: Surface Morphological Effect on Droplet Impact Dynamics. Industrial & Engineering Chemistry Research, 2018, 57 (22), 7664–7675. <https://doi.org/10.1021/acs.iecr.8b00418>.
+
+## Conference Presentations
+
+- **29/11 - 01/12/2024**, Contributed Talk, Mathematical Modeling of Three-Phase Interface Enzyme Electrode, The 4^th^ National Conference on Process Modeling and Simulation, Guangzhou, China.
+- **16/07 - 17/07/2020**, Contributed Talk, The Inhibitory Effect of Eyelashes on Water Evaporation on Ocular Surface: Computer Simulation and Mechanism Analysis, The 2^nd^ National Conference on Process Modeling and Simulation, Online, China.
+- **25/08 - 27/08/2018**, Poster, Multiscale Numerical Simulation of the Catalytic Ozonation Reactor for Wastewater Treatment, The 1^st^ National Conference on Process Modeling and Simulation, Shanghai, China.
