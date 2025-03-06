@@ -98,6 +98,10 @@ Also find me on [Google Scholar](https://scholar.google.com/citations?user=w6Ali
 
 **[4]** Xiao Dong Chen\*, **Siyu Zou**. Reaction Engineering Approach to Turbulence Modelling—Universal Law of the Wall, Pipe Flow, and Planar Jet Flow. Journal of Chemical Engineering of Japan, 2021, 54 (1), 1–11. <https://doi.org/10.1252/jcej.20we056>.
 
+<div style="text-align:center">
+  <img src="./assets/XiaoDongChen2021.jpg" alt="" width="60%">
+</div>
+
 **[3]** Jinping Zha, **Siyu Zou**, Jianyu Hao, Xinjuan Liu, Guillaume Delaplace, Romain Jeantet, Didier Dupont, Peng Wu, Xiao Dong Chen, Jie Xiao\*. The Role of Circular Folds in Mixing Intensification in the Small Intestine: A Numerical Study. Chemical Engineering Science, 2021, 229, 116079. <https://doi.org/10.1016/j.ces.2020.116079>.
 
 <div style="text-align:center">
@@ -105,6 +109,10 @@ Also find me on [Google Scholar](https://scholar.google.com/citations?user=w6Ali
 </div>
 
 **[2]** Hongtao Xia, **Siyu Zou**, and Jie Xiao\*. "Numerical Simulation of Shear-Thinning Droplet Impacting on Randomly Rough Surfaces". CIESC Journal, 2019, 70, 634–645. <https://doi.org/10.11949/j.issn.0438-1157.20181213> (In Chinese)
+
+<div style="text-align:center">
+  <img src="./assets/HongtaoXia2019.jpg" alt="" width="60%">
+</div>
 
 **[1]** Jie Xiao\*, Fei Pan, Hongtao Xia, **Siyu Zou**, Hui Zhang, Oluwafemi Ayodele George, Fei Zhou, Yinlun Huang. Computational Study of Single Droplet Deposition on Randomly Rough Surfaces: Surface Morphological Effect on Droplet Impact Dynamics. Industrial & Engineering Chemistry Research, 2018, 57 (22), 7664–7675. <https://doi.org/10.1021/acs.iecr.8b00418>.
 
