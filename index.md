@@ -58,71 +58,93 @@ Also find me on [Google Scholar](https://scholar.google.com/citations?user=w6Ali
 
 ### Main Publications
 
-**[7]** **Siyu Zou**, Jie Xiao\*, and Xinjian Feng\*. Engineering Enzyme Electrode with 3D Three-Phase Interface to Boost Enzymatic and Electrochemical Cascade Reactions. Chemical Engineering Science, 2025. <https://doi.org/10.1016/j.ces.2025.122189>
+**[7]** **Siyu Zou**, Jie Xiao\*, Xinjian Feng\*. Engineering Enzyme Electrode with 3D Three-Phase Interface to Boost Enzymatic and Electrochemical Cascade Reactions. Chemical Engineering Science, 2025. <https://doi.org/10.1016/j.ces.2025.122189>
 
 <div style="text-align:center">
-  <img src="./assets/SiyuZou2025b.jpg" alt="" width="60%">
+  <img src="./assets/SiyuZou2025_electrode.jpg" alt="" width="60%">
 </div>
 
 **[6]** **Siyu Zou\***, Jie Xiao, Xiao Dong Chen\*. A Comprehensive Comparison of Different RANS Turbulence Models in Modeling Turbulent Plane Jets. ACS Omega, 2025. <https://doi.org/10.1021/acsomega.5c01448>
 
 <div style="text-align:center">
-  <img src="./assets/SiyuZou2025a.jpg" alt="" width="60%">
+  <img src="./assets/SiyuZou2025_jet.jpg" alt="" width="60%">
 </div>
 
-**[5]** **Siyu Zou**, Jie Xiao\*, Xinjian Feng\*. Modeling Enzymatic and Electrochemical Cascade Reactions at the Three-Phase Interface Enzyme Electrode. AIChE Journal, 2024. <https://doi.org/10.1002/aic.18420>.
+**[5]** **Siyu Zou**, Jie Xiao\*, Xinjian Feng\*. Modeling Enzymatic and Electrochemical Cascade Reactions at the Three-Phase Interface Enzyme Electrode. AIChE Journal, 2024. <https://doi.org/10.1002/aic.18420>
 
 <div style="text-align:center">
   <img src="./assets/SiyuZou2024.jpg" alt="" width="60%">
 </div>
 
-**[4]** **Siyu Zou**, Dandan Wang, Jie Xiao\*, Xinjian Feng\*. Mathematical Model for a Three-Phase Enzymatic Reaction System. Industrial & Engineering Chemistry Research, 2023. <https://doi.org/10.1021/acs.iecr.2c04492>.
+**[4]** **Siyu Zou**, Dandan Wang, Jie Xiao\*, Xinjian Feng\*. Mathematical Model for a Three-Phase Enzymatic Reaction System. Industrial & Engineering Chemistry Research, 2023. <https://doi.org/10.1021/acs.iecr.2c04492>
 
 <div style="text-align:center">
   <img src="./assets/SiyuZou2023.jpg" alt="" width="60%">
 </div>
 
-**[3]** **Siyu Zou**, Jie Xiao\*, Viola Wu, Xiao Dong Chen\*. Analyzing Industrial CVD Reactors Using a Porous Media Approach. Chemical Engineering Journal, 2021. <https://doi.org/10.1016/j.cej.2021.129038>.
+**[3]** **Siyu Zou**, Jie Xiao\*, Viola Wu, Xiao Dong Chen\*. Analyzing Industrial CVD Reactors Using a Porous Media Approach. Chemical Engineering Journal, 2021. <https://doi.org/10.1016/j.cej.2021.129038>
 
 <div style="text-align:center">
   <img src="./assets/SiyuZou2021.jpg" alt="" width="60%">
 </div>
 
-**[2]** **Siyu Zou**, Jinping Zha, Jie Xiao\*, Xiao Dong Chen. How Eyelashes Can Protect the Eye Through Inhibiting Ocular Water Evaporation: A Chemical Engineering Perspective. Journal of the Royal Society Interface, 2019. <https://doi.org/10.1098/rsif.2019.0425>.
+**[2]** **Siyu Zou**, Jinping Zha, Jie Xiao\*, Xiao Dong Chen. How Eyelashes Can Protect the Eye Through Inhibiting Ocular Water Evaporation: A Chemical Engineering Perspective. Journal of the Royal Society Interface, 2019. <https://doi.org/10.1098/rsif.2019.0425>
 
 <div style="text-align:center">
-  <img src="./assets/SiyuZou2019.jpg" alt="" width="60%">
+  <img src="./assets/SiyuZou2019_eyelashes.jpg" alt="" width="60%">
 </div>
 
-**[1]** **Siyu Zou**, Ersuo Ling, Shurong Le, Shengpeng Sun, Zhangxiong Wu, Xiao Dong Chen, Duo Wu, and Jie Xiao\*. "Numerical Simulation and Analysis of the Catalytic Ozonation Reactor". Chemical Industry and Engineering Progress, 2019. <https://doi.org/10.16085/j.issn.1000-6613.2018-2476> (In Chinese)
+**[1]** **Siyu Zou**, Ersuo Ling, Shurong Le, Shengpeng Sun, Zhangxiong Wu, Xiao Dong Chen, Duo Wu, Jie Xiao\*. "Numerical Simulation and Analysis of the Catalytic Ozonation Reactor". Chemical Industry and Engineering Progress, 2019. <https://doi.org/10.16085/j.issn.1000-6613.2018-2476> (In Chinese)
+
+<div style="text-align:center">
+  <img src="./assets/SiyuZou2019_fixed_bed.jpg" alt="" width="60%">
+</div>
 
 ### Other Publications
 
-**[5]** Kaixin Li, **Siyu Zou**, Jun Zhang\*, Yang Huang, Lin He\*, and Xinjian Feng\*. Superhydrophobicity-Enabled Efficient Electrocatalytic CO₂ Reduction at a High Temperature. ACS Catalysis, 2023. <https://doi.org/10.1021/acscatal.3c01444>.
+**[8]** Tianmin Wang, **Siyu Zou**, Peng Wu, Renpan Deng, Chaoping Fu, Changyong Li\*, Ai‑Zheng Chen. CFD Modeling of Flow, Mixing, Digestion, and Absorption in the Small Intestine. Food Engineering Reviews, 2025. <https://doi.org/10.1007/s12393-025-09421-w>
+
+<div style="text-align:center">
+  <img src="./assets/TianminWang2025.jpg" alt="" width="60%">
+</div>
+
+**[7]** Zhiping Liu, **Siyu Zou**, Xi Chen, Lihui Huang, Xia Sheng\*, Xinjian Feng\*. Interfacial Microenvironment and Catalyst Modulation for Efficient Hydrogen Peroxide Synthesis via Mimicking Oxidase Catalysis. Materials Horizons, 2025. <https://doi.org/10.1039/D5MH01332A>
+
+<div style="text-align:center">
+  <img src="./assets/ZhipingLiu2025.jpg" alt="" width="60%">
+</div>
+
+**[6]** Xi Chen, Xia Sheng\*, **Siyu Zou**, Zhiping Liu, Jingyu Lu, Zhaoyue Tan, Xinjian Feng\*. Creation of a Triphasic Reaction Interface to Boost Colloidal Photooxidation under Visible Light. Langmuir, 2025. <https://doi.org/10.1021/acs.langmuir.5c02306>
+
+<div style="text-align:center">
+  <img src="./assets/XiChen2025.jpg" alt="" width="60%">
+</div>
+
+**[5]** Kaixin Li, **Siyu Zou**, Jun Zhang\*, Yang Huang, Lin He\*, Xinjian Feng\*. Superhydrophobicity-Enabled Efficient Electrocatalytic CO₂ Reduction at a High Temperature. ACS Catalysis, 2023. <https://doi.org/10.1021/acscatal.3c01444>
 
 <div style="text-align:center">
   <img src="./assets/KaixinLi2023.jpg" alt="" width="60%">
 </div>
 
-**[4]** Xiao Dong Chen\*, **Siyu Zou**. Reaction Engineering Approach to Turbulence Modelling—Universal Law of the Wall, Pipe Flow, and Planar Jet Flow. Journal of Chemical Engineering of Japan, 2021. <https://doi.org/10.1252/jcej.20we056>.
+**[4]** Xiao Dong Chen\*, **Siyu Zou**. Reaction Engineering Approach to Turbulence Modelling—Universal Law of the Wall, Pipe Flow, and Planar Jet Flow. Journal of Chemical Engineering of Japan, 2021. <https://doi.org/10.1252/jcej.20we056>
 
 <div style="text-align:center">
   <img src="./assets/XiaoDongChen2021.jpg" alt="" width="60%">
 </div>
 
-**[3]** Jinping Zha, **Siyu Zou**, Jianyu Hao, Xinjuan Liu, Guillaume Delaplace, Romain Jeantet, Didier Dupont, Peng Wu, Xiao Dong Chen, Jie Xiao\*. The Role of Circular Folds in Mixing Intensification in the Small Intestine: A Numerical Study. Chemical Engineering Science, 2021. <https://doi.org/10.1016/j.ces.2020.116079>.
+**[3]** Jinping Zha, **Siyu Zou**, Jianyu Hao, Xinjuan Liu, Guillaume Delaplace, Romain Jeantet, Didier Dupont, Peng Wu, Xiao Dong Chen, Jie Xiao\*. The Role of Circular Folds in Mixing Intensification in the Small Intestine: A Numerical Study. Chemical Engineering Science, 2021. <https://doi.org/10.1016/j.ces.2020.116079>
 
 <div style="text-align:center">
   <img src="./assets/JinpingZha2021.jpg" alt="" width="60%">
 </div>
 
-**[2]** Hongtao Xia, **Siyu Zou**, and Jie Xiao\*. "Numerical Simulation of Shear-Thinning Droplet Impacting on Randomly Rough Surfaces". CIESC Journal, 2019. <https://doi.org/10.11949/j.issn.0438-1157.20181213> (In Chinese)
+**[2]** Hongtao Xia, **Siyu Zou**, and Jie Xiao\*. Numerical Simulation of Shear-Thinning Droplet Impacting on Randomly Rough Surfaces. CIESC Journal, 2019. <https://doi.org/10.11949/j.issn.0438-1157.20181213> (In Chinese)
 
 <div style="text-align:center">
   <img src="./assets/HongtaoXia2019.jpg" alt="" width="60%">
 </div>
 
-**[1]** Jie Xiao\*, Fei Pan, Hongtao Xia, **Siyu Zou**, Hui Zhang, Oluwafemi Ayodele George, Fei Zhou, Yinlun Huang. Computational Study of Single Droplet Deposition on Randomly Rough Surfaces: Surface Morphological Effect on Droplet Impact Dynamics. Industrial & Engineering Chemistry Research, 2018. <https://doi.org/10.1021/acs.iecr.8b00418>.
+**[1]** Jie Xiao\*, Fei Pan, Hongtao Xia, **Siyu Zou**, Hui Zhang, Oluwafemi Ayodele George, Fei Zhou, Yinlun Huang. Computational Study of Single Droplet Deposition on Randomly Rough Surfaces: Surface Morphological Effect on Droplet Impact Dynamics. Industrial & Engineering Chemistry Research, 2018. <https://doi.org/10.1021/acs.iecr.8b00418>
 
 <div style="text-align:center">
   <img src="./assets/JieXiao2018.jpg" alt="" width="60%">
@@ -130,6 +152,8 @@ Also find me on [Google Scholar](https://scholar.google.com/citations?user=w6Ali
 
 ## Conference Presentations
 
-- **29/11 - 01/12/2024**, Contributed Talk, Mathematical Modeling of Three-Phase Interface Enzyme Electrode, The 4th National Conference on Process Modeling and Simulation, Guangzhou, China.
-- **16/07 - 17/07/2020**, Contributed Talk, The Inhibitory Effect of Eyelashes on Water Evaporation on Ocular Surface: Computer Simulation and Mechanism Analysis, The 2nd National Conference on Process Modeling and Simulation, Online, China.
-- **25/08 - 27/08/2018**, Poster, Multiscale Numerical Simulation of the Catalytic Ozonation Reactor for Wastewater Treatment, The 1st National Conference on Process Modeling and Simulation, Shanghai, China.
+- **21/09 – 19/09/2025**, Contributed Talk, "Construction of a Multiphase Reaction-Diffusion Model for Three-Phase Interface Enzyme Electrodes and Its Guidance for Electrode Optimization", The 4th Symposium on Simulation Methods and Technologies in Process Industries, Changsha, China.
+- **04/08 – 06/08/2025**, Contributed Talk, "Mathematical Modeling of Three-Phase Interface Enzyme Electrode", Young Scholar Forum, The 17th Annual Conference of the Global Academy of Chinese Chemical Engineering Scholars (GACCE-2025), Zhengzhou, China.
+- **29/11 - 01/12/2024**, Contributed Talk, "Mathematical Modeling of Three-Phase Interface Enzyme Electrode", The 4th National Conference on Process Modeling and Simulation, Guangzhou, China.
+- **16/07 - 17/07/2020**, Contributed Talk, "The Inhibitory Effect of Eyelashes on Water Evaporation on Ocular Surface: Computer Simulation and Mechanism Analysis", The 2nd National Conference on Process Modeling and Simulation, Online, China.
+- **25/08 - 27/08/2018**, Poster, "Multiscale Numerical Simulation of the Catalytic Ozonation Reactor for Wastewater Treatment", The 1st National Conference on Process Modeling and Simulation, Shanghai, China.
