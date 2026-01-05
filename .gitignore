@@ -1,4 +1,12 @@
 *.pdf
 *.sav
+*.py
+*.bat
+*.xlsx
+*.tex
+*.toml
+*.png
+
+/.vscode
 
 !cv/cv.pdf
