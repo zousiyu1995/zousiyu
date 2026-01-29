@@ -102,6 +102,18 @@ Also find me on [Google Scholar](https://scholar.google.com/citations?user=w6Ali
 
 ### Other Publications
 
+**[10]** Mengli Zeng, **Siyu Zou**, Lihui Huang, Jun Zhang\*, Jiong Wang\*, Xinjian Feng\*. Photothermally Driven Efficient CO₂ Electroreduction Based on a Superhydrophobic Electrode. Journal of the American Chemical Society, 2026.
+
+<div style="text-align:center">
+  <img src="./assets/MengliZeng2026.jpg" alt="" width="60%">
+</div>
+
+**[9]** Jing Li, **Siyu Zou**, Xinjian Feng\*, Jie Xiao\*. Reaction Intensification in Triphase Enzyme Electrode: In Silico Design of Interfacial Microenvironment. AIChE Journal, 2026. <https://doi.org/10.1002/aic.70210>
+
+<div style="text-align:center">
+  <img src="./assets/JingLi2026.jpg" alt="" width="60%">
+</div>
+
 **[8]** Tianmin Wang, **Siyu Zou**, Peng Wu, Renpan Deng, Chaoping Fu, Changyong Li\*, Ai‑Zheng Chen. CFD Modeling of Flow, Mixing, Digestion, and Absorption in the Small Intestine. Food Engineering Reviews, 2025. <https://doi.org/10.1007/s12393-025-09421-w>
 
 <div style="text-align:center">
