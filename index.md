@@ -102,6 +102,12 @@ Also find me on [Google Scholar](https://scholar.google.com/citations?user=w6Ali
 
 ### Other Publications
 
+**[11]** Lihui Huang, **Siyu Zou**, Mengli Zeng, Yaolan Li, Zhiping Liu, Jun Zhang\*, Xinjian Feng\*. Efficient Synthesis of Pyruvic Acid from Biomass Based on Gas-Liquid-Solid Triphase Bioelectrochemical Cascade Reaction. ChemSusChem, 2026. <https://doi.org/10.1002/cssc.202502726>
+
+<div style="text-align:center">
+  <img src="./assets/LihuiHuang2026.jpg" alt="" width="60%">
+</div>
+
 **[10]** Mengli Zeng, **Siyu Zou**, Lihui Huang, Jun Zhang\*, Jiong Wang\*, Xinjian Feng\*. Photothermally Driven Efficient CO₂ Electroreduction Based on a Superhydrophobic Electrode. Journal of the American Chemical Society, 2026.
 
 <div style="text-align:center">
