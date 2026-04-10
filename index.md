@@ -18,12 +18,6 @@ My main research interests lie in mathematical modeling and numerical simulation
 - Modeling and optimization of chemical reactors, e.g, fixed bed reactors, CVD reactors.
 - Understanding biological systems from chemical engineering perspective, e.g, eyelashes, digestive system, cardiovascular system.
 
-My research methodology typically involved modeling transport phenomena using computational fluid dynamics (CFD) and validating the models through well-defined experiments.
-
-I am also an enthusiastic self-learner with a strong interest in various fields of computer science.
-
-In my spare time, I pursue diverse interests for a healthy work-life balance. I enjoy various music genres like Jazz, Blues, and Chinese folk music. I'm also a fan of strategy board games, particularly the German-style classics like Agricola, Carcassonne, and Castles of Burgundy.
-
 ## Employment
 
 - **Since 09/2024, Lecturer**, [School of Chemical Engineering](https://hgxy.xtu.edu.cn/), [Xiangtan University](https://www.xtu.edu.cn/), Xiangtan, Hunan Province, China.
@@ -31,26 +25,9 @@ In my spare time, I pursue diverse interests for a healthy work-life balance. I 
 
 ## Skills
 
-- **Expertise**: Chemical Engineering, Transport Phenomena, Fluid Mechanics, Mass Transfer, Heat Transfer, Reaction Engineering, Reacting Flows, Porous Media, Incompressible Flows, Process Modeling and Simulation, Mathematical Modeling, Numerical Simulation
-- **Modeling & Simulation**: Physics-Based Modeling, Continuum Modeling, Multi-Physics Modeling, Multi-Scale Modeling, Machine Learning, Deep Learning, Differential Equation, Finite Element Method (FEM), Computational Fluid Dynamics (CFD), Turbulence Modeling, Moving Mesh
-- **Software**: ANSYS Fluent, COMSOL Multiphysics, MATLAB, LaTeX, Pandas, Numpy, Matplotlib, Linux, Blender
-- **Programming**: MATLAB, Python, C, Algorithms, Data Structures
-- **Languages**: Chinese (native speaker), English (intermediate)
-
-## Honours and Awards
-
-- **01/12/2024, Best Oral Presentation Award**:  In the 4th National Conference on Process Modeling and Simulation (hosted by South China University of Technology), my talk "Mathematical Modeling of Three-Phase Interface Enzyme Electrode" was honored with the Best Oral Presentation Award. This work has been published in [AIChE Journal](https://doi.org/10.1002/aic.18420) and [Industrial & Engineering Chemistry Research](https://doi.org/10.1021/acs.iecr.2c04492).
-
-<div style="text-align:center">
-  <img src="./assets/2024.12.01.Best.Oral.Presentation.Award.jpg" alt="" width="50%">
-</div>
-
-- **07/2022, Jiangsu Funding Program for Excellent Postdoctoral Talent**: This funding is provided by the Jiangsu provincial government.
-- **07/2020, Best Student Oral Presentation Award**: In the 2nd National Conference on Process Modeling and Simulation, my talk on eyelashes ("Inhibition of Ocular Water Evaporation by Eyelashes: Computer Simulation and Mechanism Analysis") was awarded the Best Student Presentation Award (1 of 12 awardees out of 62 student talks). This work has been published in [Journal of the Royal Society Interface](https://royalsocietypublishing.org/doi/10.1098/rsif.2019.0425). This conference was organized by the [Simulation & Virtual Process Engineering Committee](http://www.ciesc.cn/branch/226), one of the professional committees of the [Chemical Industry and Engineering Society of China (CIESC)](http://www.ciesc.cn/).
-
-<div style="text-align:center">
-  <img src="./assets/2020.07.Best.Student.Oral.Presentation.Award.jpg" alt="" width="50%">
-</div>
+- **Expertise**: Chemical Engineering, Transport Phenomena, Incompressible Flows, Mass Transfer, Heat Transfer, Mathematical Modeling, Numerical Simulation, Multi-Physics Modeling, Computational Fluid Dynamics (CFD), Finite Volume Method (FVM), Turbulence Modeling, Porous Media
+- **Software**: Basilisk, OpenFOAM, Blender, LaTeX, Linux, ANSYS Fluent, COMSOL Multiphysics
+- **Programming**: Python, C, MATLAB, Algorithms, Data Structures
 
 ## Publications
 
@@ -94,7 +71,7 @@ Also find me on [Google Scholar](https://scholar.google.com/citations?user=w6Ali
   <img src="./assets/SiyuZou2019_eyelashes.jpg" alt="" width="60%">
 </div>
 
-**[1]** **Siyu Zou**, Ersuo Ling, Shurong Le, Shengpeng Sun, Zhangxiong Wu, Xiao Dong Chen, Duo Wu, Jie Xiao\*. "Numerical Simulation and Analysis of the Catalytic Ozonation Reactor". Chemical Industry and Engineering Progress, 2019. <https://doi.org/10.16085/j.issn.1000-6613.2018-2476> (In Chinese)
+**[1]** **Siyu Zou**, Ersuo Ling, Shurong Le, Shengpeng Sun, Zhangxiong Wu, Xiao Dong Chen, Duo Wu, Jie Xiao\*. Numerical Simulation and Analysis of the Catalytic Ozonation Reactor. Chemical Industry and Engineering Progress, 2019. <https://doi.org/10.16085/j.issn.1000-6613.2018-2476> (In Chinese)
 
 <div style="text-align:center">
   <img src="./assets/SiyuZou2019_fixed_bed.jpg" alt="" width="60%">
@@ -167,11 +144,3 @@ Also find me on [Google Scholar](https://scholar.google.com/citations?user=w6Ali
 <div style="text-align:center">
   <img src="./assets/JieXiao2018.jpg" alt="" width="60%">
 </div>
-
-## Conference Presentations
-
-- **21/09 – 19/09/2025**, Contributed Talk, "Construction of a Multiphase Reaction-Diffusion Model for Three-Phase Interface Enzyme Electrodes and Its Guidance for Electrode Optimization", The 4th Symposium on Simulation Methods and Technologies in Process Industries, Changsha, China.
-- **04/08 – 06/08/2025**, Contributed Talk, "Mathematical Modeling of Three-Phase Interface Enzyme Electrode", Young Scholar Forum, The 17th Annual Conference of the Global Academy of Chinese Chemical Engineering Scholars (GACCE-2025), Zhengzhou, China.
-- **29/11 - 01/12/2024**, Contributed Talk, "Mathematical Modeling of Three-Phase Interface Enzyme Electrode", The 4th National Conference on Process Modeling and Simulation, Guangzhou, China.
-- **16/07 - 17/07/2020**, Contributed Talk, "The Inhibitory Effect of Eyelashes on Water Evaporation on Ocular Surface: Computer Simulation and Mechanism Analysis", The 2nd National Conference on Process Modeling and Simulation, Online, China.
-- **25/08 - 27/08/2018**, Poster, "Multiscale Numerical Simulation of the Catalytic Ozonation Reactor for Wastewater Treatment", The 1st National Conference on Process Modeling and Simulation, Shanghai, China.
