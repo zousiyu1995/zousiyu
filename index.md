@@ -35,6 +35,12 @@ Also find me on [Google Scholar](https://scholar.google.com/citations?user=w6Ali
 
 ### Main Publications
 
+**[8]** Xiaohang Yang, Jiaxin Zou, Ziyang Chen, Haibo Jiang, Guo Xiong, He'an Luo, **Siyu Zou**\*, Hongyun Yang\*. A Mass Transfer Study on Formaldehyde Oxidation Using Anodic Aluminum Oxide-Based Structured Catalysts. Industrial & Engineering Chemistry Research, 2026. <https://doi.org/10.1021/acs.iecr.6c00749>.
+
+<div style="text-align:center">
+  <img src="./assets/XiaohangYang2026.jpg" alt="" width="60%">
+</div>
+
 **[7]** **Siyu Zou**, Jie Xiao\*, Xinjian Feng\*. Engineering Enzyme Electrode with 3D Three-Phase Interface to Boost Enzymatic and Electrochemical Cascade Reactions. Chemical Engineering Science, 2025. <https://doi.org/10.1016/j.ces.2025.122189>
 
 <div style="text-align:center">
