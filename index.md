@@ -35,6 +35,12 @@ Also find me on [Google Scholar](https://scholar.google.com/citations?user=w6Ali
 
 ### Main Publications
 
+**[9]** Weiyan Wang#, Kaixin Li#, **Siyu Zou#**, Lihui Huang, Xia Sheng, Jun Zhang, Xinjian Feng. Superhydrophobicity-enabled Triphase Interfacial Microenvironment for High-Temperature CO₂-to-Formate Electrocatalysis. Energy Materials, 2026. <https://doi.org/10.20517/energymater.2026.215>.
+
+<div style="text-align:center">
+  <img src="./assets/WeiyanWang2026.jpg" alt="" width="60%">
+</div>
+
 **[8]** Xiaohang Yang, Jiaxin Zou, Ziyang Chen, Haibo Jiang, Guo Xiong, He'an Luo, **Siyu Zou**\*, Hongyun Yang\*. A Mass Transfer Study on Formaldehyde Oxidation Using Anodic Aluminum Oxide-Based Structured Catalysts. Industrial & Engineering Chemistry Research, 2026. <https://doi.org/10.1021/acs.iecr.6c00749>.
 
 <div style="text-align:center">
