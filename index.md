@@ -25,9 +25,10 @@ My main research interests lie in mathematical modeling and numerical simulation
 
 ## Skills
 
-- **Expertise**: Chemical Engineering, Transport Phenomena, Incompressible Flows, Mass Transfer, Heat Transfer, Mathematical Modeling, Numerical Simulation, Multi-Physics Modeling, Computational Fluid Dynamics (CFD), Finite Volume Method (FVM), Turbulence Modeling, Porous Media
-- **Software**: Basilisk, OpenFOAM, Blender, LaTeX, Linux, ANSYS Fluent, COMSOL Multiphysics
-- **Programming**: Python, C, MATLAB, Algorithms, Data Structures
+- **Expertise**: Chemical Engineering, Transport Phenomena, Mathematical Modeling, Numerical Simulation, Computational Fluid Dynamics (CFD), Porous Media Flow
+- **Software**: Linux, Basilisk, OpenFOAM, OpenLB, Blender, LaTeX, ANSYS Fluent, COMSOL Multiphysics
+- **Programming**: Python, C/C++, MATLAB, Algorithms, Data Structures
+- **Languages**: Chinese (native speaker), English (intermediate)
 
 ## Publications
 
@@ -35,7 +36,7 @@ Also find me on [Google Scholar](https://scholar.google.com/citations?user=w6Ali
 
 ### Main Publications
 
-**[9]** Weiyan Wang#, Kaixin Li#, **Siyu Zou#**, Lihui Huang, Xia Sheng, Jun Zhang, Xinjian Feng. Superhydrophobicity-enabled Triphase Interfacial Microenvironment for High-Temperature CO₂-to-Formate Electrocatalysis. Energy Materials, 2026. <https://doi.org/10.20517/energymater.2026.215>.
+**[9]** Weiyan Wang＝, Kaixin Li＝, **Siyu Zou＝**, Lihui Huang, Xia Sheng, Jun Zhang, Xinjian Feng. Superhydrophobicity-enabled Triphase Interfacial Microenvironment for High-Temperature CO₂-to-Formate Electrocatalysis. Energy Materials, 2026. <https://doi.org/10.20517/energymater.2026.215>.
 
 <div style="text-align:center">
   <img src="./assets/WeiyanWang2026.jpg" alt="" width="60%">
